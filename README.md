@@ -1,3 +1,4 @@
+
 # Sobre o Phinx
 
 - O Phinx vai ser uma aplicação para rodar migrations;
