@@ -1,7 +1,3 @@
-# ecommerce-tnc
-
-E-Commerce do Grupo TNC
-
 # Sobre o Phinx
 
 - O Phinx vai ser uma aplicação para rodar migrations;
